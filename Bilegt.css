@@ -162,3 +162,7 @@ img{
     margin-top: 40px;
     display: flex;
 }
+.b1:hover{
+    color: orange;
+    cursor: pointer;
+}
