@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+}
+.container{
+    width: 1173px;
+    height: 3110px;
+    display: grid;
+    grid-template-columns: auto 80% auto;
+}
+.zai1{
+    display: grid;
+    grid-template-rows: auto 1050px 920px 610px 50px;
+}
+.zai{
+    display: grid;
+    grid-template-rows: auto 1050px 920px 610px 50px;
+}
+.head1-1{
+    background-color: #59007B;
+}
+.head2-1{
+    background-color: #E7F1F8;
+}
+.head3-1{
+    background-color: #FFDD99;
+}
+.head4-1{
+    background-color: #D74680;
+}
+.head5-1{
+    background-color: #344B8E;
+}

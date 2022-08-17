@@ -1,0 +1,13 @@
+.head5{
+    background-color: #344B8E;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.hqd{
+    color: white;
+}
+.hqd:hover{
+    color: #30BAE7;
+    cursor: pointer;
+}
