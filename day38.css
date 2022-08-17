@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+}
+.me{
+    position: absolute;
+width: 500px;
+height: 500px;
+left: 931px;
+top: 218px;
+border: 3px black solid;
+border-bottom-left-radius: 295px;
+box-shadow: 5px -10px;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.hi{
+    position: absolute;
+    margin-top: 200px;
+    width: 801px;
+    height: 257px;
+    left: 80px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 87px;
+    line-height: 90px;
+    
+    color: #000000;
+    
+}
+.name1{
+    position: absolute;
+    width: 801px;
+    height: 257px;
+    left: 80px;
+    margin-top: 400px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 87px;
+    line-height: 90px;
+    
+    color: #000000;
+    
+}
+.explain{
+    position: absolute;
+    width: 762px;
+    height: 187px;
+    left: 80px;
+    top: 518px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 29px;
+    line-height: 45px;
+
+    color: #6B6868;
+}
+    
