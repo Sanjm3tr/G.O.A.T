@@ -5,7 +5,7 @@
 }
 .hed2{
     display: grid;
-    grid-template-rows: auto 43% 43%;
+    grid-template-rows: 100px auto 35% 35% 100px;
 }
 .layer1{
     display: flex;

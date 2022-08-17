@@ -1,6 +1,6 @@
 .head3{
     display: grid;
-    grid-template-rows: auto 35% 35% 10%;
+    grid-template-rows: 100px 20% 25% 25% 10% 100px;
     background-color: #FFDD99;
 }
 .hoho1{

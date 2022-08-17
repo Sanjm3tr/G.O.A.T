@@ -3,17 +3,17 @@
 }
 .container{
     width: 1173px;
-    height: 3110px;
+    height: 3270px;
     display: grid;
     grid-template-columns: auto 80% auto;
 }
 .zai1{
     display: grid;
-    grid-template-rows: auto 1050px 920px 610px 50px;
+    grid-template-rows: auto 1250px 1000px 670px 50px;
 }
 .zai{
     display: grid;
-    grid-template-rows: auto 1050px 920px 610px 50px;
+    grid-template-rows: auto 1250px 1000px 670px 50px;
 }
 .head1-1{
     background-color: #59007B;
