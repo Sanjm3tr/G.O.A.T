@@ -1,0 +1,27 @@
+.name {
+    padding-top: 20px;
+    margin: 0px 810px 337px 114px;
+    height: 130px;
+    width: 588px;
+    font-weight: 550px;
+    font-size: 60px;
+    line-height: 65px;
+    color: #7D7D7D;
+}
+
+.tal {
+    width: 850px;
+}
+
+.text {
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 29px;
+    margin-top: 51px;
+    color: #7D7D7D;
+}
+
+.zurg2 {
+    border-radius: 350px;
+    height: 700px;
+}
