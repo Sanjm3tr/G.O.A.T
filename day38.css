@@ -60,4 +60,269 @@ background-size: cover;
 
     color: #6B6868;
 }
+.hire{
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 80px;
+    font-size: 32px;
+
+    height: 50px;
+    width: 180px;
+    border: 1px yellow solid;
+    text-align: center;
     
+}
+.see{
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 300px;
+    color: white;
+    font-size: 32px;
+    height: 52px;
+    width: 320px;
+    background-color: #000000;
+    text-align: center;
+}
+.skill{
+    position: absolute;
+    margin-top: 900px;
+    font-size: 28px;
+    margin-left:750px;
+    color: red;
+}
+.power{
+    color: #818080;
+    position: absolute;
+    font-size: 28.5px;
+    margin-top: 980px;
+    width: 500px;
+    margin-left: 300px;
+}
+.skillhtml{
+    position: absolute;
+    height: 93.6px;
+    margin-left: 340px;
+    margin-top: 1080px;
+}
+.html{
+    position: absolute;
+    margin-top: 1179px;
+    font-size: 32px;
+    margin-left: 330px;
+}
+.skillcss{
+    position: absolute;
+    height: 93.6px;
+    margin-left: 540px;
+    margin-top: 1080px;   
+}
+.css{
+    position: absolute;
+    margin-top: 1179px;
+    font-size: 32px;
+    margin-left: 550px;
+}
+.skilljs{
+    position: absolute;
+    height: 93.6px;
+    margin-left: 740px;
+    margin-top: 1080px;       
+}
+.js{
+    position: absolute;
+    margin-top: 1179px;
+    font-size: 32px;
+    margin-left: 730px;  
+}
+.skilpic{
+    position: absolute;
+    height: 346px;
+    margin-top: 990px;
+    margin-left: 900px;
+}
+.projects{
+    margin-left: 950px;
+    position: absolute;
+    margin-top: 1550px;
+    font-size: 30px;;
+    color: #F37A7A;
+}
+.settings{
+    position: absolute;
+    margin-top: 1550px;
+    height: 40px;
+    margin-left: 1060px;
+}
+.some{
+    position: absolute;
+    margin-top: 1600px;
+    font-size: 27px;
+    color:#818080;
+    margin-left: 845px;
+}
+.buteel2{
+    position: absolute;
+    margin-top: 1750px;
+    margin-left: 500px;
+    height:212px ;
+    width:293px ;
+    border: 3px aqua solid;
+    background-color: aqua;
+}
+.buteel-2{
+    margin-top: 1967px;
+    position: absolute;
+    margin-left: 500px;
+    width: 290px;
+    font-size: 29px;
+    height: 200px;
+    width: 293px;
+    border: 3px aqua solid;
+    color: #818080;
+}
+.internet{
+    position: absolute;
+}
+.Visit{
+    position: absolute;
+    color: blue;
+    font-size: 25px;
+
+} 
+.buteel1{
+    margin-top: 1750px;
+    position: absolute;
+    margin-left: 1400px;
+    width: 290px;
+    font-size: 29px;
+    height: 217px;
+    width: 293px;
+    border: 3px aqua solid;
+    color: #818080;
+}
+.buteel-1{
+    position: absolute;
+    margin-top: 1970px;
+    margin-left: 1400px;
+    font-size: 29px;
+    height: 200px;
+    width: 293px;
+    border: 3px aqua solid;
+    color: #818080;
+}
+.buteel3{
+    margin-top: 1750px;
+    position: absolute;
+    margin-left: 900px;
+    width: 290px;
+    font-size: 29px;
+    height: 217px;
+    width: 293px;
+    border: 3px aqua solid;
+    color: #818080;
+}
+.buteel-3{
+    position: absolute;
+    margin-top: 1970px;
+    margin-left: 900px;
+    font-size: 29px;
+    height: 200px;
+    width: 293px;
+    border: 3px aqua solid;
+    color: #818080;
+}
+#v1{
+   margin-top: 2130px;
+    margin-left:600px ;
+}
+#v2{
+    margin-top: 2130px;
+    margin-left: 1000px ;
+}
+#v3{
+    margin-top:2130px;
+    margin-left: 1500px;
+}
+#in1{
+    margin-top: 2130px;
+    margin-left: 550px;
+}
+#in2{
+    margin-top: 2130px;
+    margin-left: 950px;
+}
+#in3{
+    margin-top: 2130px;
+    margin-left: 1450px;
+}
+.contact{
+    font-size: 30px;
+    color: #F37A7A;
+    position: absolute;
+    margin-top: 2400px;
+    margin-left: 950px;
+}
+.contect{
+    height: 471px;
+    width: 636px;
+    margin-top:2500px;
+    margin-left: 100px;
+}
+.email{
+    margin-top: 2500px;
+    position: absolute;
+    height:100px ;
+    width: 514px;
+    font-size: 32px;
+    
+}
+.message{
+    font-size: 32px;
+    position: absolute;
+    margin-top: 2610px;
+    height: 263px; 
+    width: 514px;
+}
+.send{
+    height:66px ;
+    width: 181px;
+    background-color: rgb(123, 123, 255);
+    margin-left: 900px;
+    text-align: center;
+    font-size: 32px;
+    border-radius: 5px;
+}
+.last{
+    margin-top: 200px;
+    height: 300px;
+    width: 100vw;
+    background-color: #4F47C8;
+    color: white;
+}
+.icons{
+    height: 20px;
+    margin-left: 160px;
+    margin-top: 20px;
+}
+.links{
+    margin-left: 900px;
+}
+.menu{
+    margin-top: 10px;
+    margin-left: 900px;
+    width: 80px;
+}
+.cinfor{
+    margin-left: 1400px;
+    margin-top:-110px;
+    position: absolute;
+}
+.ih{
+    position: absolute;
+    margin-left: 1400px;
+    width: 230px;
+    margin-top: -80px;
+}
+.copy{
+    margin-left: 160px;
+}
