@@ -1,84 +1,56 @@
-.back{
-    width: 1400px;
-    height: 1000px;
+.head4{
+    display: grid;
+    grid-template-rows: 100px 20% 20% 20% 20% 100px;
     background-color: #D74680;
 }
-
-.text {
-    padding-top: 45px;
-    width: 450px;
-    height: 75px;
-    color: #fff;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 40px;
-    margin-left: 425px;
+.hud1{
     display: flex;
+    flex-direction: column;
+    align-items: center;
     justify-content: center;
 }
-
-.hun {
+.hud1-1{
+    color: white;
+}
+.hud1-3{
+    color: white;
+}
+.hud1-2{
+    width: 70px;
+    height: 4px;
+    background-color: gray;
+    border: hidden;
+    border-radius: 3px;
+}
+.a2{
+    margin: 10px auto;
+    color: rgb(56, 56, 56);
+}
+.hud2{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.hud2-1{
     display: flex;
-    font-style: italic;
-    width: 400px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.hud-img{
+    width: 100px;
     height: 100px;
-    font-weight: 400;
-    font-size: 21px;
-    line-height: 32px;
-    margin: 100px 100px;
-    color: #fff;
+    margin-top: -55px;
 }
-
-.text1 {
+.hud-text{
+    color: white;
+}
+.head-hud{
     display: flex;
+    flex-direction: column;
 }
-
-.text2 {
-    display: flex;
+.hud-name{
+    color: white;
+    margin-top: 20px;
 }
-
-.text3 {
-    width: 1440px;
-    display: flex;
-}
-
-.text4 {
-    position: absolute;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 27px;
+.hud-name1{
     color: #FFDD99;
-    margin-top: 100px;
-}
-
-.name {
-    position: absolute;
-    font-weight: 700;
-    font-size: 24px;
-    line-height: 37px;
-    color: #FFFFFF;
-    margin-top: 130px;
-}
-
-.tsenher {
-    width: 1440px;
-    height: 107px;
-    background: #344B8E;
-}
-
-.face {
-    display: flex;
-    width: 98px;
-    height: 35.34px;
-    font-weight: 600;
-    font-size: 22.5752px;
-    text-align: center;
-}
-.texttt{
- display: block;
- position: absolute;
- color: #fff;
-}
-.buttonnn{
-
 }
