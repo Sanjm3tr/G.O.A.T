@@ -1,6 +1,6 @@
 .head4{
     display: grid;
-    grid-template-rows: 20% 40% auto;
+    grid-template-rows: 100px 20% 25% 25% 100px;
     background-color: #D74680;
 }
 .hud1{
