@@ -1,3 +1,46 @@
-.name{
-    
+.sname{
+    font-style: inherit;
+    font-family: serif;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+.sstart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+.simg{
+    width: 200px;
+    height: 120px;
+    position: absolute;
+    left: 750px;
+    box-shadow: 7px 5px 5px 5px;
+    border:3px;
+    border-color: solid black;
+    border-bottom-left-radius: 75px;
+}
+.sbutton1{
+    background-color: white;
+    border: 1px solid black;
+    height: 25px;
+}
+.sbutton2{
+    background-color: Black;
+    border: 1px solid black;
+    height: 25px;
+    color: white;
+}
+.sbutton1:hover{
+    background-color: black;
+    border: 1px solid black;
+    height: 25px;
+    color: white;
+}
+.sbutton2:hover{
+    background-color: white;
+    border: 1px solid black;
+    height: 25px;
+    color: black;
 }
