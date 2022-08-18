@@ -21,3 +21,26 @@
     border-color: solid black;
     border-bottom-left-radius: 75px;
 }
+.sbutton1{
+    background-color: white;
+    border: 1px solid black;
+    height: 25px;
+}
+.sbutton2{
+    background-color: Black;
+    border: 1px solid black;
+    height: 25px;
+    color: white;
+}
+.sbutton1:hover{
+    background-color: black;
+    border: 1px solid black;
+    height: 25px;
+    color: white;
+}
+.sbutton2:hover{
+    background-color: white;
+    border: 1px solid black;
+    height: 25px;
+    color: black;
+}
