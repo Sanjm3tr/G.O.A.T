@@ -1,5 +1,5 @@
  * {
-    margin: 0%;
+     margin: 0%;
  }
 
  .head1 {
@@ -112,4 +112,29 @@
  .CENTER {
      display: flex;
      flex-direction: row;
+ }
+
+ .zurg3 {
+     width: 415px;
+     height: 415px;
+ }
+
+ .zurg4 {
+     height: 250px;
+     width: 350px;
+ }
+
+ .text9 {
+     font-weight: 400;
+     font-size: 30px;
+     line-height: 70px;
+     color: #818080;
+ }
+
+ .skill {
+     display: flex;
+     flex-direction: row;
+ }
+ .ehnii2{
+    margin: 100px;
  }
