@@ -1,0 +1,21 @@
+.first {
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     width: 100vw;
+     margin-bottom: 450px;
+   }
+   .first .img img{
+     margin-top: 100px;
+     margin-right: 100px;
+     width: 400px;
+     height: 400px;
+     box-shadow: 30px 30px 15px;
+   }
+   .name{
+        font-size:x-large;
+   }
+   .first .img1{
+       width: 243px; 
+       height:709px ;
+   }
