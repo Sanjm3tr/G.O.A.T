@@ -115,14 +115,14 @@
  }
 
  .zurg3 {
-    margin-left: 100px;
+     margin-left: 100px;
      width: 500px;
      height: 500px;
  }
 
  .zurg4 {
-     height: 250px;
-     width: 350px;
+     height: 300px;
+     width: 450px;
  }
 
  .text9 {
@@ -142,7 +142,7 @@
  }
 
  .text8 {
-    position: absolute;
+     position: absolute;
      margin-left: 742.18px;
      width: 85px;
      height: 48px;
@@ -151,6 +151,81 @@
      line-height: 48px;
      color: #F37A7A;
  }
- .skill{
-    margin-left: 100px;
+
+ .skill {
+     margin-left: 100px;
+ }
+
+ .contact {
+     font-size: 30px;
+     color: #F37A7A;
+     position: absolute;
+     margin-left: 900px;
+ }
+
+ .contect {
+     height: 471px;
+     width: 636px;
+ }
+
+ .email {
+     margin-left: 100px;
+     margin-top: 100px;
+     position: absolute;
+     height: 100px;
+     width: 514px;
+     font-size: 32px;
+
+ }
+
+ .message {
+     margin-left: 100px;
+     font-size: 32px;
+     position: absolute;
+     margin-top: 210px;
+     height: 263px;
+     width: 514px;
+ }
+
+ .send {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 66px;
+     width: 181px;
+     background-color: rgb(123, 123, 255);
+     margin-left: 900px;
+     font-size: 32px;
+     border-radius: 5px;
+     margin-top: 20px;
+ }
+
+ .Contact {
+     margin-left: 300px;
+ }
+
+ .text69 {
+     padding-top: 100px;
+     padding-bottom: 60px;
+     padding-left: 700px;
+     font-weight: 700;
+     font-size: 48px;
+     color: #4A6CFA;
+
+ }
+
+ .buttn {
+    margin-left: 900px ;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     font-weight: 500;
+     font-size: 14px;
+     text-align: center;
+     text-transform: uppercase;
+     color: #FFFFFF;
+     height: 56px;
+     width: 176px;
+     background: #4A6CFA;
+     border-radius: 28px;
  }
