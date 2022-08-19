@@ -16,6 +16,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    color: white;
 }
 .menu1-1{
     display: flex;
@@ -24,9 +25,11 @@
     width: 70px;
     height: 25px;
     border: hidden;
+    color: black;
     background-color: white;
     border-radius: 5px;
     cursor: pointer;
+    text-decoration: none;
 }
 .menu1-1:hover{
     color:#EB7D4B;
@@ -37,6 +40,7 @@
     margin-right: 10px;
     color: white;
     cursor: pointer;
+    text-decoration: none;
 }
 .menu1:hover{
     color: #EB7D4B;
