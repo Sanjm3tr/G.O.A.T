@@ -115,8 +115,9 @@
  }
 
  .zurg3 {
-     width: 415px;
-     height: 415px;
+    margin-left: 100px;
+     width: 500px;
+     height: 500px;
  }
 
  .zurg4 {
@@ -135,6 +136,21 @@
      display: flex;
      flex-direction: row;
  }
- .ehnii2{
-    margin: 100px;
+
+ .ehnii2 {
+     margin: 100px;
+ }
+
+ .text8 {
+    position: absolute;
+     margin-left: 742.18px;
+     width: 85px;
+     height: 48px;
+     font-weight: 600;
+     font-size: 32.5581px;
+     line-height: 48px;
+     color: #F37A7A;
+ }
+ .skill{
+    margin-left: 100px;
  }
