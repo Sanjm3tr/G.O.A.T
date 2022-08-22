@@ -1,0 +1,45 @@
+.Taniltsuulga5{
+    display: flex;
+    flex-direction: column;
+    background-color:rgba(0, 0, 0, 0.08);
+}
+.suliin1{
+    width: 100%;
+    height: 70%;
+}
+.suliin2{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.suliin2-1{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #4A6CFA;
+    font-size: 20px;
+}
+.suliin2-2{
+    width: 10%;
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: hidden;
+    border-radius: 50px;
+    background-color: #4A6CFA;
+    margin-top: -40px;
+}
+.suliin2-3{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #4A6CFA;
+}
